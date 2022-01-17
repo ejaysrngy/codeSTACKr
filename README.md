@@ -16,6 +16,8 @@
 <br />
 <br />
 
+### Check out my projects down below!
+
 ---
 
 
