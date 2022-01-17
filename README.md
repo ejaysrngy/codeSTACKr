@@ -1,6 +1,6 @@
 ### Ejay Sarangay, PTRP
 
-## An licensed physical therapist and aspiring front-end web developer
+## A licensed physical therapist and aspiring front-end web developer
 
 <br />
 
